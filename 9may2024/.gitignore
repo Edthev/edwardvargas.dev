@@ -1,0 +1,24 @@
+# Logs
+9may2024/logs
+9may2024/*.log
+9may2024/npm-debug.log*
+9may2024/yarn-debug.log*
+9may2024/yarn-error.log*
+9may2024/pnpm-debug.log*
+9may2024/lerna-debug.log*
+
+9may2024/node_modules
+9may2024/dist
+9may2024/dist-ssr
+9may2024/*.local
+
+# Editor directories and files
+9may2024/.vscode/*
+9may2024/!.vscode/extensions.json
+9may2024/.idea
+9may2024/.DS_Store
+9may2024/*.suo
+9may2024/*.ntvs*
+9may2024/*.njsproj
+9may2024/*.sln
+9may2024/*.sw?
