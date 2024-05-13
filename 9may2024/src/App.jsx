@@ -4,7 +4,7 @@ import ProjectDetails from "./components/projects/ProjectDetails.jsx";
 import githubSVG1 from "./assets/github-mark-white.svg";
 import githubSVG2 from "./assets/github-mark.svg";
 import linkedInSVG from "./assets/linkedin-svgrepo-com.svg";
-import "./App.css";
+import "./App.scss";
 
 function App() {
    const boilerPlate = "HTML5 CSS3 SASS JAVASCRIPT";
