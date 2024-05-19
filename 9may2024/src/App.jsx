@@ -80,8 +80,8 @@ function App() {
                />
             </div>
             <div class="description">
-               Coded in Visual Studio Code. Built with react.js and SASS. Deployed on
-               cloudflare.
+               Coded in Visual Studio Code. Built with React.js and SASS. Deployed on
+               CloudFlare.
             </div>
          </main>
       </div>
