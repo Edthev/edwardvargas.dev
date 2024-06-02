@@ -10,7 +10,9 @@
         &__title{
             display: flex;
         }
-        &__description{}
+        &__description{
+            margin:0;
+        }
         &__techstack{
             display: flex;
             .tools{
